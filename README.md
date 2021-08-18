@@ -1,7 +1,6 @@
 - 👋 Hi, I’m TCL.
 - 👀 I’m studying in THU.
-- 🌱 I’m currently learning the basis of electronic circuit and system.
-- 💞️ I’m an member of the department of ee software.
+- 🌱 I’m vegetable.
 
 <!---
 TCL606/TCL606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
