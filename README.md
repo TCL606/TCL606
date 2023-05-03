@@ -7,6 +7,7 @@
 - 👋 Hi, I’m TCL.
 - 👀 I'm now studying at Tsinghua University.
 - 🌱 I'm from the Department of Electronic Engineering.
+- ❤️ I'm the current director of Tsinghua University EE Software Center (EESC).
 
 ### University
 ![Tsinghua](https://img.shields.io/badge/Tsinghua-9187FF?style=for-the-badge&logo=fathom&logoColor=white)
@@ -30,7 +31,7 @@
 
 ### Researching on
 
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Speech_Signal_Processing](https://img.shields.io/badge/Speech_Signal_Processing-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 <!---
 TCL606/TCL606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
