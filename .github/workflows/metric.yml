@@ -35,6 +35,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_archived: yes
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: detailed
           plugin_lines: yes
