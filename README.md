@@ -8,7 +8,7 @@
 - 👀 I'm now studying at Tsinghua University.
 - 🌱 I'm from the Department of Electronic Engineering.
 - ❤️ I'm the current director of Tsinghua University EE Software Center (EESC).
-- 💕 I'm the current PRESIDENT of [E.E. Student Association of Science and Technology, Tsinghua University](https://github.com/eesast).
+- 💕 I'm the current CHAIRMAN of [E.E. Student Association of Science and Technology, Tsinghua University](https://github.com/eesast).
 
 ### University
 ![Tsinghua](https://img.shields.io/badge/Tsinghua-9187FF?style=for-the-badge&logo=fathom&logoColor=white)
